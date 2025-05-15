@@ -1,0 +1,7 @@
+fastapi==0.115.12
+fastapi-cli==0.0.7
+SQLAlchemy==2.0.40
+SQLAlchemy-Utils==0.41.2
+psycopg2-binary==2.9.9
+pytest==8.3.5
+pandas
